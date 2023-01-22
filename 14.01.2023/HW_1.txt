@@ -1,0 +1,123 @@
+1.
+
+response:
+[
+	null,
+	null
+]
+
+2.
+
+
+response:
+{
+    "age": "38",
+    "family": {
+        "children": [
+            [
+                "Alex",
+                24
+            ],
+            [
+                "Kate",
+                12
+            ]
+        ],
+        "u_salary_1_5_year": 6000
+    },
+    "name": "Paul",
+    "salary": 1500
+}
+
+3.
+
+response:
+{
+    "age": 38,
+    "daily_food": 0.912,
+    "daily_sleep": 190.0,
+    "name": "Paul"
+}
+
+4.
+
+response:
+{
+    "person": {
+        "u_age": 38,
+        "u_name": [
+            "Paul",
+            1500,
+            38
+        ],
+        "u_salary_5_years": 6300.0
+    },
+    "qa_salary_after_1.5_year": 4950.0,
+    "qa_salary_after_12_months": 4050.0000000000005,
+    "qa_salary_after_3.5_years": 5700.0,
+    "qa_salary_after_6_months": 3000,
+    "start_qa_salary": 1500
+}
+
+5.
+
+response:
+{
+    "age": "38",
+    "family": {
+        "children": [
+            [
+                "Alex",
+                24
+            ],
+            [
+                "Kate",
+                12
+            ]
+        ],
+        "pets": {
+            "cat": {
+                "age": 3,
+                "name": "Sunny"
+            },
+            "dog": {
+                "age": 4,
+                "name": "Luky"
+            }
+        },
+        "u_salary_1_5_year": 6000
+    },
+    "name": "Paul",
+    "salary": 1500
+}
+
+6.
+
+response:
+{
+    "age": 38,
+    "name": "Paul",
+    "salary": [
+        1500,
+        "3000",
+        "4500"
+    ]
+}
+
+7.
+{
+    "person": {
+        "u_age": 38,
+        "u_name": [
+            "Paul",
+            1500,
+            38
+        ],
+        "u_salary_5_years": 6300.0
+    },
+    "qa_salary_after_1.5_year": 4950.0,
+    "qa_salary_after_12_months": 4050.0000000000005,
+    "qa_salary_after_3.5_years": 5700.0,
+    "qa_salary_after_6_months": 3000,
+    "start_qa_salary": 1500
+}
